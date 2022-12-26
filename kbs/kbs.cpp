@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+main()
+{
+int mbs;
+int kbs;
+int bytes;
+int bits;
+kbs=1024;
+bytes=8;
+cout<< " enter mbs to convert ";
+cin>> mbs;
+mbs=mbs*1024*1024*8;
+cout<< " mbs into bits are :" << bits s<<endl;
+}

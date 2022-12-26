@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+main()
+{
+int dollar;
+int input;
+int rupees;
+int con_val;
+1 dollar=200 rupees;
+cout<< " enter input ";
+cin>> input;
+con_val=dollar*input ;
+cout<< " con_value is " << con_val <<endl;
+}
